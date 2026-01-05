@@ -15,6 +15,7 @@ TOTHOST支持全中文界面和支付宝付款，提供48小时不满意无条�
 当前TOTHOST提供的优惠码如下：
 
 7.5折优惠码：Hi5TOT (仅限新用户使用）
+
 [点击查看TOTHOST官网最新优惠促销活动](https://www.ecscoupon.com/4340.html)
 
 ## TOTHOST优惠活动
